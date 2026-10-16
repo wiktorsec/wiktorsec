@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Wiktor 👋
 
-<!--
-**wiktorsec/wiktorsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **SOC Analyst** from Poland, focused on blue team skills
+and working towards penetration testing.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning on TryHackMe (Cyber security 101 path)
+- Building a home lab for network monitoring and log analysis
+- Hardware projects with ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Systems:** Linux, Windows (Event Viewer, PowerShell, user & permission management)
+**Networking:** TCP/IP, DNS, HTTP/HTTPS, troubleshooting, Wireshark
+**Programming:** Python, C++, HTML/CSS/JavaScript
+**Languages:** Polish (native), English (fluent)
+
+## 
